@@ -6,37 +6,37 @@ const SUBGRAPH_URLS: Record<string, { decentralized: string }> = {
   // Ethereum Mainnet subgraph, https://docs-v4.venus.io/services/subgraphs
   "1": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/Htf6Hh1qgkvxQxqbcv4Jp5AatsaiY5dNLVcySkpCaxQ8",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmdRAV4dGT7nwNFnBCBJv323vxxiZrFPHNs6fArtroQb91",
   },
   // Optimism subgraph, https://docs-v4.venus.io/services/subgraphs
   "10": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/6vdC1Qpr5kobLEJCdDVUsGK6yG6aFscaQKvNZt2SspSz",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmZCPnpJBSYuFgWhLAEyTkYmi4T9oi5yBrwykdyYqms17C",
   },
   // BSC subgraph, https://docs-v4.venus.io/services/subgraphs
   "56": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/H2a3D64RV4NNxyJqx9jVFQRBpQRzD6zNZjLDotgdCrTC",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmfVBgxV6GYf48UZAeri8dcJQ3a18GfYxL5djMbyWN1yVP",
   },
   // Unichain subgraph, https://docs-v4.venus.io/services/subgraphs
   "130": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/7N1UtVizkc1EbqNvHh8xfKbSanBtksnap1JxVdpogrMJ",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmQR91TB5GnZs45VJxhMJym376AX3g9J5GASwpNc6tS9bU",
   },
   // ZKsync subgraph, https://docs-v4.venus.io/services/subgraphs
   "324": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/GAGNaWNCDmWvjr217vjtQrh3uSkV2bjXPzJSfnGAuxfz",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/Qmd3cebP8qSVrRHsgeukW2DkMo1AZocjkgibmToWkrpg93",
   },
   // Base subgraph, https://docs-v4.venus.io/services/subgraphs
   "8453": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/7VHvieXwv5SWSmVppmi4QkSCFVxiECgcFdng2er73Q97",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmbU1et6jS3dWHb6nYYwktHZAeEe5BcWvFBLvMDYiXgXGH",
   },
   // Arbitrum subgraph, https://docs-v4.venus.io/services/subgraphs
   "42161": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/2zqpTYBL3X1E2eb129bKno1pJdx6xBawr8urp61w33Z8",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmR65M75fibRfgkTmM5nSCBchJcJDUPwMt8a3BLMffw736",
   },
 };
 
